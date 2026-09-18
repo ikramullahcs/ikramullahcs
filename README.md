@@ -1,16 +1,54 @@
-## Hi there 👋
+# Ikram Ullah
 
-<!--
-**ikramullahcs/ikramullahcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate · Aspiring AGI Researcher**
 
-Here are some ideas to get you started:
+I am a Computer Science student building foundations in mathematics,
+algorithms, and artificial intelligence, with a long-term goal of
+contributing to Artificial General Intelligence (AGI) research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach:
+
+> **Understand → Implement → Experiment → Analyze**
+
+---
+
+## Research Interests
+
+- Artificial Intelligence & AGI
+- Machine Learning
+- Deep Learning
+- Mathematical Foundations of AI
+- Algorithms & Optimization
+
+---
+
+## Currently
+
+**Learning**
+- Mathematics for Computer Science & AI
+- Data Structures & Algorithms
+- Machine Learning
+- C / C++ and Python
+
+**Building**
+- From-scratch algorithm implementations
+- Machine learning experiments
+- Research-oriented projects
+
+---
+
+## Tools
+
+`Python` · `C` · `C++` · `Git` · `GitHub` · `LaTeX`
+
+---
+
+## Research Philosophy
+
+> **Learn deeply. Build carefully. Measure honestly.**
+
+---
+
+## Connect
+
+[GitHub](https://github.com/ikramullahcs)
