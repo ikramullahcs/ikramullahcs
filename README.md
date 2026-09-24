@@ -1,112 +1,115 @@
-<!-- =========================================================
-     Ikram Ullah — GitHub profile README
-     Paste this as README.md in the repo named exactly your username.
-     Replace YOUR-GITHUB-USERNAME in the GitHub badge below.
-     GitHub strips CSS; typing SVG + linked badges + are the motion.
-     ========================================================= -->
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3600&pause=1800&color=E6EDF3&center=true&vCenter=true&width=740&height=42&lines=FSc+Computer+Science+·+Khyber+Pakhtunkhwa;Merit+scholar+·+preparing+for+a+BS+in+CS;C%2C+mathematics%2C+and+community+teaching">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3600&pause=1800&color=1F2328&center=true&vCenter=true&width=740&height=42&lines=FSc+Computer+Science+·+Khyber+Pakhtunkhwa;Merit+scholar+·+preparing+for+a+BS+in+CS;C%2C+mathematics%2C+and+community+teaching">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3600&pause=1800&color=1F2328&center=true&vCenter=true&width=740&height=42&lines=FSc+Computer+Science+·+Khyber+Pakhtunkhwa;Merit+scholar+·+preparing+for+a+BS+in+CS;C%2C+mathematics%2C+and+community+teaching" alt="Animated tagline: FSc Computer Science, merit scholar, preparing for a BS in CS" />
-  </picture>
+  <!-- Dynamic Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=180&section=header&text=Ikram%20Ullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Ikram Ullah Header">
+  
+  <!-- Animated Typing Tagline -->
+  <a href="https://github.com/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Aspiring+Computer+Scientist+%7C+BS+CS+Scholarship+Candidate;Merit+Scholar+%7C+Top+40+in+4+Districts;Mathematics+%7C+C+Programming+%7C+AI+%26+AGI+Systems;Community+Educator+%7C+Global+Mentor" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="mailto:ikramullah1.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ikram-ullah-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
-<h1 align="center">Ikram Ullah</h1>
+---
 
-<p align="center"><strong>Aspiring Computer Science undergraduate · international scholarship candidate.</strong></p>
+## 👨‍💻 Executive Overview
 
-<p align="center">
-  <a href="#selected-on-merit"><img src="https://img.shields.io/badge/Merit_scholar-1f2937?style=for-the-badge" alt="Merit scholar" /></a>
-  &nbsp;
-  <a href="#selected-on-merit"><img src="https://img.shields.io/badge/AWS_AI%20%26%20ML_Scholars-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS AI and ML Scholars" /></a>
-  &nbsp;
-  <a href="#what-i-do-outside-class"><img src="https://img.shields.io/badge/Founder-youth_mentorship-1f2937?style=for-the-badge" alt="Founder, youth mentorship" /></a>
-  &nbsp;
-  <a href="#focus"><img src="https://img.shields.io/badge/C-Mathematics-1f2937?style=for-the-badge&logo=c&logoColor=79C0FF" alt="C and mathematics" /></a>
-</p>
+I am an **FSc Computer Science** graduate from Khyber Pakhtunkhwa, Pakistan, currently dedicating a self-directed gap year to mastering advanced mathematics, probabilistic modeling, and programming fundamentals[span_0](start_span)[span_0](end_span). Having secured a top-tier merit scholarship and a "Student of the Year" recognition during my intermediate studies, my central objective is securing an international **BS in Computer Science scholarship** to build a research career in Artificial Intelligence and AGI systems[span_1](start_span)[span_1](end_span). 
+
+I believe the best computer scientists sit at the intersection of rigorous mathematical precision and community responsibility. My focus is unshakeable: building procedural logic from scratch, understanding the CPU-level operations beneath modern architecture, and teaching those concepts to others until they can use them[span_2](start_span)[span_2](end_span). 
 
 ---
 
-## Overview
+## 🎓 Academic Excellence
 
-I am an **FSc Computer Science** graduate from **Khyber Pakhtunkhwa, Pakistan**, preparing applications for a **BS in Computer Science** abroad. I finished Intermediate at Qurtuba School & College, D.I. Khan (**86%**) after matriculating from **Cadet College Spinkai** (**94%**). I am not claiming a professional record I do not have. I am claiming a direction, a study habit, and evidence that I have already been selected on merit.
+> *"I treat every academic opportunity as a continuation of trust and investment in my potential."*
 
-I care about two things that belong together: **the precision of mathematics and C**, and **the responsibility of teaching**. This profile is the public notebook for that work.
-
-**Current focus:** Strengthening C and data structures, keeping my mathematics sharp, and preparing a careful international scholarship cycle.
-
-<p id="focus"></p>
-
-### Focus
-
-<p>
-  <a href="#focus"><img src="https://skillicons.dev/icons?i=c,py,git,linux" alt="C, Python, Git, Linux" /></a>
-</p>
-
-- **C** — writing small programs from scratch: functions, memory, and the compiler, not screenshots of output  
-- **Mathematics** — algebra, calculus, and probability as the language I want computer science to sit on  
-- **Python** — foundational; used where a notebook is the honest tool  
-- **Teaching** — explaining an idea until someone else can use it  
-
-I would rather publish fewer, cleaner repositories later than fill this page with unfinished demos.
+*   **Higher Secondary School Certificate (FSc / Intermediate in CS)** — *Qurtuba School & College, D.I. Khan* (2022–2025)[span_3](start_span)[span_3](end_span)
+    *   **Score:** 86% (1036/1200)[span_4](start_span)[span_4](end_span).
+    *   **Merit-Based Scholarship:** Awarded a two-year, fully-funded scholarship for ranking in the top 40 of 35,000–45,000 students across four districts[span_5](start_span)[span_5](end_span). 
+*   **Secondary School Certificate (SSC / Matric)** — *Cadet College Spinkai* (2020–2022)[span_6](start_span)[span_6](end_span)
+    *   **Score:** 94% (1037/1100)[span_7](start_span)[span_7](end_span).
 
 ---
 
-<p id="selected-on-merit"></p>
+## 🛠️ Skills & Technical Arsenal
 
-## Selected on merit
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,aws,linux,git,latex,bash" alt="My Skills" />
+  </a>
+</div>
+<br>
 
-Only the selections that already look like a scholarship file. Nothing extra.
-
-**Fully funded FSc merit scholarship** · Qurtuba School & College, D.I. Khan · 2023–2025  
-Two-year award (Rs 180,000) for academic performance. Ranked in the **top 40** among tens of thousands of intermediate students across **four districts**. This is the first time an institution paid for me to keep studying. I treat every later application as a continuation of that trust.
-
-**AWS AI & ML Scholars** · Udacity × Amazon Web Services × Accenture · 2025  
-Selected from a **global pool of 100,000 applicants**. Completed applied study in generative AI and cloud-based model use. I list this as *selection and training*, not as a claim that I am an AI engineer.
-
----
-
-<p id="what-i-do-outside-class"></p>
-
-## Outside class
-
-The work I would still do if nobody was reading this file.
-
-**Founder, Ihyaa-e-Millat Youth Mentorship Initiative** · 2025–present  
-I started a local mentorship effort for children who were being left out of school. **One-on-one academic support for 15 children, including 6 coming out of child-labour situations.** Structured Mathematics and English for **33 children** in total. The lesson I keep: talent is common; a quiet room and a consistent adult are not.
-
-**Mentor, Future Nation Global Mentorship Programme** · UNDP Bangladesh · 2025  
-Remote sessions on career readiness and English communication inside a UNDP-affiliated programme operating across **90+ countries**. I was a mentor in a large cohort — not the architect of the programme. The useful part for me was learning to teach across a screen, in another country’s timezone, without lowering the standard.
-
-**Summary:**
-<strong>One more line — sport</strong>
-<br />
-
-**Taekwondo**, Cadet College Spinkai. Discipline, repetition, and sportsmanship. I do not lead with this; I include it because a scholarship file should show a body and a schedule, not only marks.
+**Core Competencies:**
+*   **Programming Languages:** C (Intermediate), C++ (Intermediate), Python (Foundational)[span_8](start_span)[span_8](end_span).
+*   **Mathematics:** Calculus (Derivatives, Integrals, Precalculus), Linear Algebra, Probability, Statistics, Trigonometry[span_9](start_span)[span_9](end_span).
+*   **AI & Cloud Systems:** Machine Learning Architectures, MLOps, AWS Bedrock, AWS PartyRock, Generative AI, Prompt Engineering[span_10](start_span)[span_10](end_span).
+*   **Soft Skills & Linguistics:** English (Academic presentation & fluent intonation practice), Urdu (Full Professional), Pashto (Native), Basic Turkish[span_11](start_span)[span_11](end_span).
 
 ---
 
-## Connect
+## 🌍 Leadership & Global Mentorship
 
-<p>
-  <a href="mailto:ikramullah1.cs@gmail.com"><img src="https://img.shields.io/badge/Email-ikramullah1.cs%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Ikram Ullah" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ikram-ullah-cs"><img src="https://img.shields.io/badge/LinkedIn-ikram--ullah--cs-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" /></a>
-  &nbsp;
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR--GITHUB--USERNAME-1f2937?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub profile" /></a>
-</p>
+The work I do outside the classroom to ensure technological access and literacy scale across communities.
 
-**Email:** [ikramullah1.cs@gmail.com](mailto:ikramullah1.cs@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ikram-ullah-cs](https://www.linkedin.com/in/ikram-ullah-cs)
+<details open>
+  <summary><b>🤝 Founder | Ihyaa-e-Millat Youth Mentorship Initiative (2025–Present)</b></summary>
+  <blockquote>
+    Founded a community initiative delivering one-on-one academic support to 15 underserved children, directly intervening for 6 children transitioning out of child labor[span_12](start_span)[span_12](end_span). Personally engineered and executed targeted Mathematics and English instruction for 33 local youths[span_13](start_span)[span_13](end_span).
+  </blockquote>
+</details>
 
-Languages I work in: **English** · **Urdu** · **Pashto** (native)
+<details open>
+  <summary><b>🌐 Global Mentor | UNDP Future Nation Programme (2025–Present)</b></summary>
+  <blockquote>
+    Conducted remote, live mentoring sessions on career readiness and English communication to youth participants across Bangladesh[span_14](start_span)[span_14](end_span). Facilitated skill development within a massive 2,603-participant cohort affiliated with UNDP[span_15](start_span)[span_15](end_span).
+  </blockquote>
+</details>
 
-<br />
+<details>
+  <summary><b>🏘️ Volunteer Assistant | Mahsud Welfare Association (2025)</b></summary>
+  <blockquote>
+    Supported local community educational outreach, examination administration, and led structured sessions guiding peers through modern digital marketing pathways over an 8-month tenure[span_16](start_span)[span_16](end_span).
+  </blockquote>
+</details>
 
 ---
 
-## Projects
+## 📜 Specialized Courses & Certifications
 
-<!-- Leave this heading. Add repositories here when the code is ready to stand alone. -->
+*   **AWS AI & ML Scholars Program (2025):** Selected from a global pool of 100,000 applicants for advanced generative AI and cloud deployment training (*Udacity, AWS, Accenture*)[span_17](start_span)[span_17](end_span).
+*   **CS105: Introduction to Python (2026):** Passed with a 100% final examination score (*Saylor Academy*)[span_18](start_span)[span_18](end_span).
+*   **Prompt Engineering for ChatGPT (2025):** *Vanderbilt University*[span_19](start_span)[span_19](end_span).
+*   **AI For Everyone (2025):** *DeepLearning.AI*[span_20](start_span)[span_20](end_span).
+*   **Azure & Generative AI (2025):** *Microsoft Learn*[span_21](start_span)[span_21](end_span).
+*   **AI Essentials (2025) / Intro to AI (2025):** *Intel / Google*[span_22](start_span)[span_22](end_span).
+
+---
+
+## 🏅 Extracurriculars & Honors
+
+*   **Competitive Analytics & Reasoning:** Participant in the Global Logic & Reasoning Competition (GLRC) 2026.
+*   **Public Speaking & Declamation:** Placed 6th out of 20 district-level participants in the BISE D.I. Khan Speech Competition on constitutional rights[span_23](start_span)[span_23](end_span). Active in Urdu declamation.
+*   **Athletics:** Recognized Taekwondo Athlete (Cadet College Spinkai) focusing on discipline[span_24](start_span)[span_24](end_span); Competitive Badminton and Cricket Player noted for sportsmanship[span_25](start_span)[span_25](end_span).
+*   **Creative Pursuits:** Recognized for visual arts and actively exploring digital marketing optimization for specialized agriculture/livestock niches.
+
+---
+
+## 🚀 Projects & Open Source Contributions
+
+<!-- 
+====================================================================
+  NOTE: This section is intentionally reserved for upcoming work. 
+  Future algorithmic implementations in C/C++, advanced data structures, 
+  and scalable AI applications will be populated here as they are published. 
+====================================================================
+-->
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" alt="Footer Wave">
+</div>
